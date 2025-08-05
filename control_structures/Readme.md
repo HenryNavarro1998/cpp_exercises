@@ -275,26 +275,8 @@ Ejemplo de ejecución:
 
 ## 📚 Soluciones Completas  
 Las soluciones detalladas para cada ejercicio están disponibles en:  
-[GitHub Repositorio](https://github.com/tu-usuario/cpp-estructuras-control)
+[GitHub Repositorio](https://github.com/HenryNavarro1998/cpp_exercises)
 
 ## 🔗 Recursos Adicionales  
 - [Referencia oficial de C++](https://cplusplus.com/doc/tutorial/control/)  
-- [Compilador online](https://www.onlinegdb.com/online_c++_compiler)  
 - [Ejercicios interactivos](https://www.learn-cpp.org/)  
-
-```mermaid
-graph TD
-    A[Estructuras de Control] --> B[Selección]
-    A --> C[Repetición]
-    A --> D[Control]
-    B --> E[if-else]
-    B --> F[switch]
-    C --> G[for]
-    C --> H[while]
-    C --> I[do-while]
-    D --> J[break]
-    D --> K[continue]
-    D --> L[return]
-```
-
-¡Domina estas estructuras y estarás listo para los siguientes desafíos de programación! 💻🚀
