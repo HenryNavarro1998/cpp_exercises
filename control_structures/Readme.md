@@ -273,9 +273,9 @@ Ejemplo de ejecución:
 
 ---
 
-## 📚 Soluciones Completas  
+<!-- ## 📚 Soluciones Completas  
 Las soluciones detalladas para cada ejercicio están disponibles en:  
-[GitHub Repositorio](https://github.com/HenryNavarro1998/cpp_exercises)
+[GitHub Repositorio](https://github.com/HenryNavarro1998/cpp_exercises) -->
 
 ## 🔗 Recursos Adicionales  
 - [Referencia oficial de C++](https://cplusplus.com/doc/tutorial/control/)  
