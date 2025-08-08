@@ -141,7 +141,6 @@ Ejemplo de ejecución:
 >> Ingrese número: 123
 << Suma de dígitos: 6
 ```
-
 ---
 
 ### 🔸 Ejercicio 12: Generador de Tablas de Multiplicar  
